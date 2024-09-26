@@ -1,0 +1,14 @@
+c:\adi\semester 3\pbo pr\tugas1pbopr\bin\Debug\net8.0\tugas1pbopr.exe
+c:\adi\semester 3\pbo pr\tugas1pbopr\bin\Debug\net8.0\tugas1pbopr.deps.json
+c:\adi\semester 3\pbo pr\tugas1pbopr\bin\Debug\net8.0\tugas1pbopr.runtimeconfig.json
+c:\adi\semester 3\pbo pr\tugas1pbopr\bin\Debug\net8.0\tugas1pbopr.dll
+c:\adi\semester 3\pbo pr\tugas1pbopr\bin\Debug\net8.0\tugas1pbopr.pdb
+c:\adi\semester 3\pbo pr\tugas1pbopr\obj\Debug\net8.0\tugas1pbopr.GeneratedMSBuildEditorConfig.editorconfig
+c:\adi\semester 3\pbo pr\tugas1pbopr\obj\Debug\net8.0\tugas1pbopr.AssemblyInfoInputs.cache
+c:\adi\semester 3\pbo pr\tugas1pbopr\obj\Debug\net8.0\tugas1pbopr.AssemblyInfo.cs
+c:\adi\semester 3\pbo pr\tugas1pbopr\obj\Debug\net8.0\tugas1pbopr.csproj.CoreCompileInputs.cache
+c:\adi\semester 3\pbo pr\tugas1pbopr\obj\Debug\net8.0\tugas1pbopr.dll
+c:\adi\semester 3\pbo pr\tugas1pbopr\obj\Debug\net8.0\refint\tugas1pbopr.dll
+c:\adi\semester 3\pbo pr\tugas1pbopr\obj\Debug\net8.0\tugas1pbopr.pdb
+c:\adi\semester 3\pbo pr\tugas1pbopr\obj\Debug\net8.0\tugas1pbopr.genruntimeconfig.cache
+c:\adi\semester 3\pbo pr\tugas1pbopr\obj\Debug\net8.0\ref\tugas1pbopr.dll
